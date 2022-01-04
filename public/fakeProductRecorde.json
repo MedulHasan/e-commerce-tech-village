@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "Pure White & Black Sleeve",
+        "price": 91.0,
+        "quantity": 1
+    },
+    {
+        "id": 2,
+        "name": "Levi's Red Tab Florence",
+        "price": 45.5,
+        "quantity": 2
+    },
+    {
+        "id": 3,
+        "name": "Black & Curve Cooler",
+        "price": 115.5,
+        "quantity": 1
+    },
+    {
+        "id": 4,
+        "name": "Pure White & Black Sleeve",
+        "price": 45.5,
+        "quantity": 1
+    },
+    {
+        "id": 5,
+        "name": "Red & Blue T-Shirt",
+        "price": 405.5,
+        "quantity": 3
+    },
+    {
+        "id": 6,
+        "name": "Pure White & Black Sleeve",
+        "price": 22.5,
+        "quantity": 2
+    },
+    {
+        "id": 10,
+        "name": "Gray With Sleeve",
+        "price": 105.5,
+        "quantity": 1
+    },
+    {
+        "id": 7,
+        "name": "Navi Blue",
+        "price": 45.5,
+        "quantity": 1
+    },
+    {
+        "id": 8,
+        "name": "Pure White & Black Sleeve",
+        "price": 50.0,
+        "quantity": 1
+    },
+    {
+        "id": 9,
+        "name": "Levi's Red Tab Florence",
+        "price": 91.0,
+        "quantity": 1
+    }
+]
