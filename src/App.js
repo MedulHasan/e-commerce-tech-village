@@ -6,24 +6,27 @@ import Product from "./components/Product/Product";
 import ProductRecord from "./components/ProductRecord/ProductRecord";
 import Search from "./components/Search/Search";
 import User from "./components/User/User";
+import ProductProvider from "./context/ProductProvider";
 
 function App() {
     return (
-        <div className='lg:flex'>
-            <div className=' mr-5 mb-10'>
-                <Menu />
-                <User />
-                <ProductRecord />
-                <Footer />
-            </div>
-            <div className=' w-full bg-slate-100 border-l-2 border-gray-300'>
-                <Search />
-                <div className=' p-4'>
-                    <Category />
-                    <Product />
+        <ProductProvider>
+            <div className='lg:flex'>
+                <div className=' mr-5 mb-10'>
+                    <Menu />
+                    <User />
+                    <ProductRecord />
+                    <Footer />
+                </div>
+                <div className=' w-full bg-slate-100 border-l-2 border-gray-300'>
+                    <Search />
+                    <div className=' p-4'>
+                        <Category />
+                        <Product />
+                    </div>
                 </div>
             </div>
-        </div>
+        </ProductProvider>
     );
 }
 

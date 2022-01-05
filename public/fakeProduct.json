@@ -1,92 +1,92 @@
 [
     {
-        "id": 1,
-        "img": "./image/1.JPG",
-        "price": 43,
-        "name": "Pure white Polo"
-    },
-    {
-        "id": 2,
-        "img": "./image/2.JPG",
-        "price": 43,
-        "name": "Pure white Polo"
-    },
-    {
-        "id": 3,
-        "img": "./image/3.JPG",
-        "price": 43,
-        "name": "Pure white Polo"
-    },
-    {
-        "id": 4,
-        "img": "./image/4.JPG",
-        "price": 43,
-        "name": "Pure white Polo"
-    },
-    {
-        "id": 5,
-        "img": "./image/5.JPG",
-        "price": 43,
-        "name": "Pure white Polo"
-    },
-    {
-        "id": 6,
-        "img": "./image/6.JPG",
-        "price": 43,
-        "name": "Pure white Polo"
-    },
-    {
-        "id": 7,
-        "img": "./image/7.JPG",
-        "price": 43,
-        "name": "Pure white Polo"
-    },
-    {
-        "id": 8,
-        "img": "./image/8.JPG",
-        "price": 43,
-        "name": "Pure white Polo"
-    },
-    {
-        "id": 9,
-        "img": "./image/1.JPG",
-        "price": 43,
-        "name": "Pure white Polo"
-    },
-    {
-        "id": 10,
-        "img": "./image/9.JPG",
-        "price": 43,
-        "name": "Pure white Polo"
-    },
-    {
         "id": 11,
-        "img": "./image/10.JPG",
+        "img": "./image/1.JPG",
         "price": 43,
         "name": "Pure white Polo"
     },
     {
         "id": 12,
+        "img": "./image/2.JPG",
+        "price": 64,
+        "name": "Pure White & Black Sleeve"
+    },
+    {
+        "id": 13,
+        "img": "./image/3.JPG",
+        "price": 45,
+        "name": "Levi's Red Tab Florence"
+    },
+    {
+        "id": 14,
+        "img": "./image/4.JPG",
+        "price": 56,
+        "name": "Pure white Polo"
+    },
+    {
+        "id": 15,
+        "img": "./image/5.JPG",
+        "price": 43,
+        "name": "Red & Blue T-Shirt"
+    },
+    {
+        "id": 16,
+        "img": "./image/6.JPG",
+        "price": 53,
+        "name": "Pure white Polo"
+    },
+    {
+        "id": 17,
+        "img": "./image/7.JPG",
+        "price": 78,
+        "name": "Pure White & Black Sleeve"
+    },
+    {
+        "id": 18,
+        "img": "./image/8.JPG",
+        "price": 65,
+        "name": "Red & Blue T-Shirt"
+    },
+    {
+        "id": 19,
+        "img": "./image/1.JPG",
+        "price": 47,
+        "name": "Levi's Red Tab Florence"
+    },
+    {
+        "id": 20,
+        "img": "./image/9.JPG",
+        "price": 36,
+        "name": "Pure white Polo"
+    },
+    {
+        "id": 21,
+        "img": "./image/10.JPG",
+        "price": 55,
+        "name": "Pure White & Black Sleeve"
+    },
+    {
+        "id": 22,
         "img": "./image/11.JPG",
         "price": 43,
         "name": "Pure white Polo"
     },
     {
-        "id": 13,
+        "id": 23,
         "img": "./image/1.JPG",
-        "price": 43,
-        "name": "Pure white Polo"
+        "price": 65,
+        "name": "Pure White & Black Sleeve"
     },
     {
-        "id": 14,
+        "id": 24,
         "img": "./image/12.JPG",
-        "price": 43,
+        "price": 42,
         "name": "Pure white Polo"
     },
     {
-        "id": 15,
+        "id": 25,
         "img": "./image/13.JPG",
         "price": 43,
-        "name": "Pure white Polo"
+        "name": "Levi's Red Tab Florence"
     }
 ]
